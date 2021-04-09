@@ -1,5 +1,9 @@
 # Plant Shop
 
+
+![Plant shop app](assets/animated-screen-shot.gif)
+
+
 App UI integration with Flutter
 
 (Design inspired by [Indah Ratna Sari](https://www.uplabs.com/posts/plants-mobile-app-exploration))
